@@ -56,7 +56,7 @@ Treina múltiplos modelos de regressão de baseline (como Regressão Linear, Rid
 - Uma linha tracejada indica o melhor desempenho para facilitar a comparação visual.
 
 **Exemplo real:**
-![alt text](regressao_.png)
+![alt text](imagens/regressao_.png)
 
 ---
 
@@ -71,7 +71,7 @@ Treina vários modelos de classificação (como Regressão Logística, KNN, Rand
 - Isso permite uma visão rápida de quais modelos são mais promissores para o seu problema.
 
 **Exemplo real:**
-![alt text](classificacao.png)
+![alt text](imagens/classificacao.png)
 
 ---
 
@@ -87,7 +87,7 @@ Aplica diferentes algoritmos de clustering (K-Means, Aglomerativo, DBSCAN) para 
   - **Calinski-Harabasz Index:** Mede a razão entre a dispersão entre clusters e a dispersão intra-cluster (valores mais altos são melhores).
 
 **Exemplo real:**
-![alt text](agrupamento_.png)
+![alt text](imagens/agrupamento_.png)
 
 ---
 
@@ -101,7 +101,7 @@ Utiliza algoritmos não supervisionados (Isolation Forest, Local Outlier Factor,
 - **Tempo de execução** de cada algoritmo, uma métrica importante para avaliar a escalabilidade.
 
 **Exemplo real:**
-![alt text](deteccaoAnomalias_.png)
+![alt text](imagens/deteccaoAnomalias_.png)
 
 ---
 
@@ -115,7 +115,7 @@ Aplica PCA (Principal Component Analysis) para projetar os dados em 2 e 3 dimens
 - **Gráfico de RMSE de Reconstrução:** Mede o erro ao tentar reconstruir os dados originais a partir da versão reduzida (quanto menor, melhor).
 
 **Exemplo real:**
-![alt text](ReducaoDimensionalidade_.png)
+![alt text](imagens/ReducaoDimensionalidade_.png)
 
 ---
 
